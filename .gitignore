@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.out
+__pycache__/
+*.png
+*.json
+.DS_Store
